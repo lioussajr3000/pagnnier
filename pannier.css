@@ -1,0 +1,15 @@
+h2{
+    margin-left: 25px;
+    margin-top: 30px;
+    font-family: sans-serif;
+    color: rgb(77, 75, 75);
+    font-size: 25px;
+}
+hr{
+    width: 300px;
+    margin-left: 20px;
+}
+.d{
+    display: flex;
+    
+}
